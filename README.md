@@ -1,2 +1,3 @@
-# gtm-engineering-journey
-Welcome! This repo documents my journey learning and building in the GTM (Go-To-Market) Engineering space, where marketing, sales, and data meet technology.
+# 🚀 GTM Engineer Learning Journey
+
+This repository documents my path to becoming a GTM Engineer.
