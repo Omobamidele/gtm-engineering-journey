@@ -1,0 +1,14 @@
+# Learning Plan
+
+### Objective
+Become a GTM Engineer capable of designing and executing full go-to-market systems.
+
+### Approach
+1. Study each module sequentially.  
+2. Summarize key insights in my own words.  
+3. Apply frameworks to mock or real SaaS examples.  
+4. Publish results and reflections in this repo.
+
+### Expected Outcomes
+- Deep understanding of GTM frameworks.  
+- Portfolio of 5 end-to-end GTM projects.  
