@@ -6,9 +6,75 @@ How you first discovered it
 
 What made you decide to use it
 → You’ve just mapped their GTM motion.
+SOLUTION
+
+1. Skin Doctor Roll-On
+Who it's for: Basically everyone who wants to feel and smell fresh—a broad human audience.
+
+How I found it (Discovery Channel): I simply came across it while browsing in a supermarket. This is classic Point of Sale (Retail) discovery.
+
+Why I chose it (Decision Trigger): The label explicitly stated it was aluminum-free. This health/ingredient focus was the key value proposition that convinced me to switch.
+
+2. Colgate Toothpaste
+Who it's for: All humans who prioritize oral hygiene and brush their teeth.
+
+How I found it (Discovery Channel): A Word-of-Mouth (Referral) recommendation. My sister was talking about how a particular type whitened her teeth.
+
+Why I chose it (Decision Trigger): I wanted that specific cosmetic outcome, so the promise that it whitened teeth was the deciding factor.
+
+3. My iPhone
+Who it's for: Anyone who wants a classy, premium phone that also raises their status in society. It targets status-conscious consumers.
+
+How I found it (Discovery Channel): Through Visibility and Social Proof—seeing other people use it everywhere.
+
+Why I chose it (Decision Trigger): The phone’s sleek design and its reputation for superior camera quality were the strongest draws for me.
+
 
 Intermediate:
 Create a Lean GTM Canvas for a fictional SaaS app (e.g., AI email assistant).
 
+SOLUTION
+Problem: Professionals across sales, recruiting, and support roles spend ≈2.5 hours daily drafting highly repetitive, yet mission-critical, emails (follow-ups, confirmations, scheduling). This manual effort reduces their focus on core tasks, bottlenecks revenue-generating activities, and causes communication latency.
+
+Target ICP (Ideal Customer Profile): Mid-market ($10M−$100M ARR) B2B Sales Development/Account Executives and High-Volume Corporate Recruiters (companies with 10−50 person sales/recruiting teams). These users are already heavily integrated into CRM systems and measure success by rapid, personalized outreach.
+
+Solution: An AI Co-pilot integrated directly into Gmail/Outlook and Salesforce/HubSpot via a sleek browser extension. It anticipates the user's need based on context (conversation history, CRM data) and drafts complete, personalized emails from a 1−2 bullet point prompt, automatically applying the right tone and brand voice.
+
+Unique Value Prop (UVP): We don't just auto-complete sentences—we auto-draft entire, personalized emails in seconds. We guarantee a 75% reduction in email drafting time compared to using standard templates, allowing users to handle 2× the volume without quality loss.
+
+Channel(s):
+
+Product-Led Growth (PLG): A generous free tier distributed via the Google Workspace Marketplace and Microsoft AppSource (low friction adoption).
+
+Direct Sales: Targeted outbound campaigns on LinkedIn towards SDR/Recruiting leadership, focusing on the team efficiency gain.
+
+Affiliate/Partner: Integrations with popular CRM and sales engagement platforms.
+
+Pricing Model: Freemium → Per-User Subscription.
+
+Free: Limited to 50 AI-generated emails/month (PLG hook).
+
+Pro Tier ($29/user/mo): Unlimited emails, advanced features (tone control, multilingual support), and CRM data integration.
+
+Team Tier ($49/user/mo): Everything in Pro, plus centralized billing and team-wide custom brand voice training.
+
+Key Metric(s):
+
+Time Saved (Efficiency): Average time to draft per email (must be <10 seconds).
+
+Engagement/Quality: Reply rate increase vs. previous manual campaigns.
+
+Adoption & Stickiness: Monthly Active Users (MAU) and the percentage of users who use the AI for >50% of their outbound emails.
+
+
+
 Advanced:
 Analyze your favorite PLG product and identify its activation metric (like Slack’s 2k messages).
+
+SOLUTION
+
+My favorite PLG product is Make.com, the Activation meric is the moment a user moves from browsing the potential of the tool to actually building and running their own automated workflow.
+
+The "Aha!" Moment: For a Make.com user, the "Aha!" moment isn't just signing up, it's seeing data move automatically between two apps that they set up.
+
+The Metric: Therefore, the activation is specifically: A user successfully creates and turns on (activates) their first working Scenario/Workflow
