@@ -1,0 +1,52 @@
+Beginner Exercise: Find Where Your Customers Hang Out
+
+Write down your Ideal Customer (example: “Marketing managers in small tech startups”).
+
+Google or search on social media:
+
+What sites, platforms, or communities do they use?
+
+What kind of content do they interact with?
+
+SOLUTION
+Ideal Customer: Real estate companies, including individual agents, brokers, and larger firms, who want to improve efficiency and client experience through automation. Specific targets include decision-makers like brokers and owners, as well as agents who can use AI for tasks like client communication, property listing optimization, and lead management.
+
+Platform	Why They’re There	Example Content
+LinkedIn	Professional networking, B2B connections, industry news, establishing credibility, and professional development.	Posts on market insights, commercial real estate trends, successful case studies, best practices for lead generation, and business/technology articles (e.g., "5 Ways AI is Automating Client Follow-up").
+
+Facebook Groups	Niche community building, sharing tips, asking for advice/referrals, and engaging with peers on practical, day-to-day challenges. (e.g., "Lab Coat Agents," local real estate agent groups)	Questions about lead generation systems, discussions on new technology tools, requests for contract advice, posts about overcoming common agent hurdles, and discussions about brokerage management.
+
+YouTube	Learning/tutorials for marketing, technology, and sales tactics; staying current on market analysis and business growth strategies.	"How-to" videos on social media marketing for agents, property video tour examples, interviews with top producers, software demos (e.g., "Best Real Estate CRM Walkthrough"), and economic/market forecast analysis.
+
+Industry-Specific Forums/Communities (e.g., ActiveRain, BiggerPockets (for investors/agents), Realtor.com forums)	Connecting with other professionals, seeking specific advice, sharing expertise, and discussing industry-specific topics in depth.	Detailed discussions on commission splits, best marketing practices, reviews of real estate tech/software, and ethical/legal questions.
+
+
+
+
+Intermediate Exercise: Build Your First Channel Test Plan
+
+You’re going to run a small test to find what works.
+
+Pick 2 channels from your list above.
+
+For each, write one simple test.
+
+Channel	Test Action	Duration	What to Measure
+LinkedIn	Post 3 educational tips	2 weeks	Likes, comments, profile visits
+Email	Send free guide to 10 contacts	2 weeks	Opens, replies
+
+Channel	Test Action	Duration	What to Measure
+LinkedIn	Post 3 times per week for two weeks (6 total posts). Focus content on AI/Automation for Brokers/Owners (e.g., "3 Ways AI Cuts Brokerage Overhead").	2 Weeks	Impressions, Likes, Comments, Clicks to your profile/website link in the comments, and Profile Views from your target audience.
+Facebook Group (e.g., a popular agent/broker community)	Post 4 times over two weeks (once every 3-4 days). Post a question or poll about a major pain point that your AI solves (e.g., "What's the most time-consuming client communication task?").	2 Weeks	Number of Comments (engagement), Reaction Tally, Number of Private Messages (DMs) received for follow-up, and Clicks to a linked free resource (if offered).
+
+ Multi-Channel Funnel Map (Goal: Product Trial Sign-up)Funnel StageChannel/ActionWhat You'll Say/Content HookSuccess MetricAwareness (ToFu)LinkedIn Post (Targeting Brokers/Owners)Headline: "Stop Wasting Time on Cold Leads: The $15,000 Brokerage Mistake." Body: A short, punchy case for how manual lead qualification and slow follow-up cost brokerages massive time/money. CTA: "Download the free 5-page guide to see the 3 processes you need to automate this week." (Link to Landing Page)Click-Through Rate (CTR): $\geq 2\%$ of impressions result in a click to the landing page.Interest (MoFu)Landing Page (Free PDF Guide)Headline: 
+ 
+ "FREE Guide: The Broker's Playbook for $30,000 in Annual AI Time Savings." Form Fields: Name, Work Email, Brokerage Name. Offer: The 3-Step AI Strategy to Automate Lead Follow-Up and Qualification (Without Losing the Personal Touch).Conversion Rate (CVR): $\geq 30\%$ of visitors who land on the page submit their information (become a lead/download the guide).Conversion (BoFu)Email Follow-up (Automated Drip)Email 1 (Immediate): "Your Guide is Here (Plus, one crucial next step)." Delivers the guide PDF. Pitches a simple 1-on-1 discovery call. Email 2 (2 days later): "Did you see Step 2? We can set this up for your team in 2 hours." Pitches the free trial with a strong focus on ease of setup and zero risk.
+ 
+ Trial Activation Rate: $\geq 5\%$ of leads (those who downloaded the guide) click the link in Email 2 and start the free product trial.Detailed Content Breakdown1. Awareness: LinkedIn PostPlatform: LinkedIn (best for B2B/brokerage decision-makers).The Hook: A direct financial pain point.Content Strategy: Use a $\text{Hook} \rightarrow \text{Value} \rightarrow \text{CTA}$ structure.ElementCopy/ActionHook/ImageImage: A simple graphic with bold text: "Is Your Brokerage Wasting 20 Hours/Week on Manual Lead Follow-Up?"HeadlineStop Wasting Time on Cold Leads: The $$$15,000 Brokerage Mistake.Body (Snippet)We audited 10 mid-size brokerages and found the average office manager spends $\sim 20\%$ of their week on unqualified lead follow-up. That's a minimum of $$$15K/year in lost productivity per 5-agent team. The only way to scale today is to automate the first 5 touches.Call-to-ActionDon't burn resources.
+ 
+ Download our free, 5-page Playbook to see the 3 simple AI processes every modern brokerage needs to automate this week. Link in comments below $\downarrow$2. Interest: Landing PageGoal: Capture the lead's professional email for the follow-up sequence.Content Strategy: Double down on the solution and savings.ElementCopy/ActionHeadlineFREE Guide: The Broker's Playbook for $$$30,000 in Annual AI Time Savings.Sub-HeadlineHow Top Real Estate Teams use AI to Qualify Leads, Automate 80% of Follow-Up, and Schedule 3X More Appointments—without hiring a new ISA.Form/CTAForm Fields: Name, Work Email, Brokerage Name. Button Text: $\rightarrow$ Send Me The Free AI PlaybookConfirmationThank You! Check your inbox.
+ 
+ (Redirects to a "Thank You" page confirming the guide has been sent.)3. Conversion: Email Follow-up DripGoal: Move the qualified lead from guide-reader to Product Trial user.Strategy: Deliver value first (Email 1), then pitch the solution (Email 2).Email 1: Immediate Delivery (Value)ElementCopy/ActionSubjectHere is your AI Playbook + The 1 process you can implement today.BodyHi [Name], Attached is the guide you requested! It outlines the 3 steps to reclaim $\geq 30$ hours/month from manual lead follow-up. 
+ 
+ Pro-Tip: Focus on automating your "First 5 Touches" first. If you want to skip the reading and just see how we can implement this exact process for your team in a single 15-minute call, click below.Primary CTA$\rightarrow$ Book a 15-Minute Implementation CallEmail 2: Two Days Later (Conversion/Trial Pitch)ElementCopy/ActionSubjectRe: Did you implement Step 2?BodyHi [Name], Just following up on the Playbook. Most brokers tell us the toughest part is setting up the tech. That's why we offer a Risk-Free Trial. It integrates with your current CRM in minutes and we handle the setup. You'll see AI-qualified leads in your inbox by tomorrow. No credit card required.Primary CTA$\rightarrow$ Start Your Free, 14-Day AI Trial
