@@ -1,0 +1,70 @@
+Create a Growth Funnel Map
+
+Take a fictional or real product idea.
+Map out your AARRR funnel in simple form:
+
+| Stage       | What Happens      | Metric to Track |
+| ----------- | ----------------- | --------------- |
+| Acquisition | People visit site | Visitors        |
+| Activation  | They sign up      | Signups         |
+| Retention   | They come back    | Active users    |
+| Revenue     | They pay          | Paying users    |
+| Referral    | They share        | Referrals       |
+
+FICTIONAL PRODUCT: That sounds like a great product! Here is a Growth Funnel Map for your fictional AI agent that helps people with anxious attachment heal, using the AARRR framework, but presented in a simple, non-tabular format.
+
+### AI Agent for Anxious Attachment Healing: Growth Funnel Map
+
+#### 1. Acquisition
+
+* **What Happens:** Individuals experiencing anxious attachment (or interested in personal growth/therapy) discover the AI agent. This could be through targeted social media ads, search engine optimization (SEO) on terms like "anxious attachment healing," content marketing (blog posts, short videos), or mentions in relevant online communities/forums.
+* **Metric to Track:** **Unique Site/App Visitors** (or "Total Traffic")
+
+#### 2. Activation
+
+* **What Happens:** A visitor takes the first meaningful step to experience the AI agent's core value. They might complete a short, free assessment (e.g., "What is your Attachment Style?"), start the initial guided 'intro session,' or complete the sign-up process for the free trial/basic plan.
+* **Metric to Track:** **Account Signups/Completed Assessment Rate** (or "First Session Starts")
+
+#### 3. Retention
+
+* **What Happens:** Activated users continue to engage with the AI agent regularly over time. They log in to complete their daily check-ins, participate in guided meditations/exercises, or interact with the AI chat for support sessions across multiple weeks.
+* **Metric to Track:** **Weekly Active Users (WAU) / 7-Day or 30-Day Retention Rate** (Percentage of users who return within a set period after activation)
+
+#### 4. Revenue
+
+* **What Happens:** Users transition from the free or trial tier to a paid subscription, which unlocks premium features like deeper personalization, unlimited chat access, specialized healing modules, or integration with human coaching.
+* **Metric to Track:** **Monthly Recurring Revenue (MRR) / Conversion Rate to Paid Subscription**
+
+#### 5. Referral
+
+* **What Happens:** Satisfied, healed, or progressing paying users share their positive experience with their friends, therapy groups, or online networks, bringing in new, high-quality prospects without direct advertising spend. This could be incentivized with a share-a-link feature.
+* **Metric to Track:** **Referrals Tracked per Paying User / Net Promoter Score (NPS)**
+
+
+2. Design a Growth Experiment
+
+Pick one problem area in your funnel (e.g., low activation).
+
+I will make sure the response is in a plain, non-tabular list format, similar to the previous answer.
+
+***
+
+### Growth Experiment Design
+
+**Problem**
+Only 15% of users who sign up for the free account complete the initial "Attachment Style Assessment," which is the first step toward personalized healing content.
+
+**Hypothesis**
+If we reframe the "Assessment" as a "Quick, 5-Question Personalization Quiz" and visually show the user's progress through an interactive bar, the completion rate will increase to 30%.
+
+**Test**
+Implement two versions: Control (current long-form "Assessment" page) vs. Variant (new, short "Quiz" presented as an interactive, multi-step flow). Use A/B testing software to route traffic 50/50.
+
+**Metric**
+Activation Rate (specifically, the percentage of users who start the sign-up process and *complete* the personalization quiz).
+
+**Timeframe**
+3 Weeks (to ensure statistically significant data, accounting for weekly usage cycles).
+
+**Expected Outcome**
++15% increase in personalization quiz completion rate, leading to a higher number of users ready to engage with the core product.
