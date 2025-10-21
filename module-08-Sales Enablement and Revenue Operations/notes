@@ -1,0 +1,35 @@
+The GTM Engineer’s Role
+
+As a GTM Engineer, you build and optimize the systems that power revenue.
+
+Your job is to:
+
+Help marketing deliver qualified leads.
+
+Help sales convert those leads efficiently.
+
+Help customer success retain and expand customers.
+
+In short: you’re the architect of how money moves through the business.
+
+The Revenue Funnel (Simplified)
+| Stage                              | Owner             | Goal                    | Example Metric  |
+| ---------------------------------- | ----------------- | ----------------------- | --------------- |
+| **Lead**                           | Marketing         | Generate interest       | Website signups |
+| **MQL** (Marketing Qualified Lead) | Marketing → Sales | Fit the target audience | Conversion rate |
+| **SQL** (Sales Qualified Lead)     | Sales             | Ready to talk           | Demo booked     |
+| **Opportunity**                    | Sales             | Evaluating proposal     | Pipeline value  |
+| **Closed-Won**                     | Sales             | Deal closed             | Revenue         |
+| **Expansion / Renewal**            | CS / Sales        | Upsell or renew         | LTV, churn rate |
+
+
+Sales Enablement Content (The Sales Toolkit)
+
+| Asset            | Description                        | Example                            |
+| ---------------- | ---------------------------------- | ---------------------------------- |
+| **Battle Cards** | Quick sheets comparing competitors | “Why we win vs. Notion”            |
+| **Playbooks**    | Step-by-step process guides        | “How to handle objections”         |
+| **One-Pagers**   | Short product summaries            | “Key benefits of our Pro plan”     |
+| **Case Studies** | Proof that it works                | “How XYZ saved $50k/year”          |
+| **Demo Scripts** | Flow of product demo               | “Problem → Solution → Proof → CTA” |
+
