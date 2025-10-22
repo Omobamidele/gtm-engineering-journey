@@ -1,0 +1,122 @@
+🧠 Intermediate Exercise: Calculate Your CAC & LTV
+
+Pick a fictional product and estimate:
+
+Spend on marketing: $1,000
+
+Customers gained: 20
+
+CAC = $1,000 ÷ 20 = $50
+
+Each customer pays $10/month, stays 12 months →
+LTV = $10 × 12 = $120
+
+LTV:CAC = 120 ÷ 50 = 2.4×
+
+🎯 Goal: See how lifetime value justifies acquisition costs.
+
+
+
+
+SOLUTION
+calculation of the Customer Acquisition Cost (CAC), Customer Lifetime Value (LTV), and the LTV:CAC ratio based on the provided metrics for your product, the AI Agent for Healing Anxious Attachment:1. Customer Acquisition Cost (CAC)The CAC is the total cost of sales and marketing efforts required to acquire a customer.Spend on Marketing: $\$1,000$Customers Gained: $20$CAC $= \frac{\text{Spend on Marketing}}{\text{Customers Gained}}$CAC $= \frac{\$1,000}{20} = \$50$$\text{Your cost to acquire one customer is **\$50**}.$2. Customer Lifetime Value (LTV)The LTV is the total revenue a company can reasonably expect from a single customer over the entire duration of their relationship.Monthly Revenue per Customer: $\$10$Average Customer Lifespan: $12$ monthsLTV $= \text{Monthly Revenue per Customer} \times \text{Average Customer Lifespan}$LTV $= \$10 \times 12 = \$120$$\text{The estimated lifetime value of one customer is **\$120**}.$3. LTV:CAC RatioThe LTV:CAC ratio is a key metric that shows the return on investment (ROI) for customer acquisition. It indicates how much money a business generates for every dollar spent to acquire a 
+customer.LTV: $\$120$CAC: $\$50$LTV:CAC Ratio $= \frac{\text{LTV}}{\text{CAC}}$LTV:CAC Ratio $= \frac{\$120}{\$50} = 2.4\times$$\text{The LTV:CAC ratio is **2.4:1** (or **2.4x**).}$🎯
+Goal Analysis:A common benchmark for a healthy Software as a Service (SaaS) or subscription-based business model is an LTV:CAC ratio of 3:1 or higher.
+Your calculated ratio of 2.4:1 is good, as the customer's lifetime value is more than double the cost to acquire them.It indicates that for every $\$1$ spent on marketing, your AI agent is expected to bring in
+$\$2.40$ in revenue over the customer's lifetime, which is a profitable model.To reach the 3:1 benchmark, you would need to either:Reduce CAC (e.g., lower it to $\approx\$40$ while maintaining $LTV=\$120$).
+Increase LTV (e.g., raise the price to $\$12.50$/month or extend the average lifespan to $15$ months while maintaining $CAC=\$50$).
+
+
+
+Pro Challenge: Define Your North Star Metric
+
+Pick a real or fictional product.
+
+Ask:
+
+What value do users get?
+
+What action proves they’re getting that value?
+
+Define your NSM and related “support metrics.”
+
+Example:
+
+Product: SkillBoost (online learning app)
+
+NSM: Lessons completed per user
+
+Support Metrics: Course starts, active users, completion rate
+
+🎯 Goal: Find one metric that captures your product’s purpose.
+\
+
+
+
+North Star Metric (NSM) Definition
+
+Product: AI Agent for Healing Anxious Attachment
+
+Question
+
+Answer
+
+1. What core value do users get?
+
+Users gain emotional regulation, reduced relationship-related anxiety, and a move toward a more secure attachment style. The ultimate value is measurably improved emotional health and relationship security.
+
+2. What action proves they’re getting that value?
+
+The user consistently engages with the deep, structured therapeutic features (not just casual chat). They complete the guided cognitive-behavioral exercises and log their feelings, indicating they are actively working through their anxious patterns.
+
+The North Star Metric (NSM)
+
+The NSM must capture both the frequency of therapeutic action and the intent to improve.
+
+North Star Metric (NSM):
+
+$$\text{Average Number of Core Guided Sessions (Reflections or Coping Drills) Completed per User, per Week}$$
+
+Justification:
+
+This metric focuses on the core activity that drives positive outcomes (healing). Simple active users can just be chatting, but completing a guided session confirms the user is engaging with the product's therapeutic methodology, which is the mechanism for value delivery.
+
+Supporting Metrics (Input Metrics)
+
+These are the levers the team controls to influence the NSM. Improving these metrics should directly cause the NSM to rise.
+
+Metric
+
+Category
+
+Why it Matters
+
+1. Session Completion Rate
+
+Product Health
+
+The percentage of users who start a guided session and finish it. (A low rate suggests bad UX/poor guidance).
+
+2. D7/D30 Retention Rate
+
+Engagement
+
+The percentage of users who return after 7 or 30 days. (Users won't heal if they don't return consistently).
+
+3. Core Feature Adoption
+
+Product Health
+
+Percentage of users who utilize the "Emotional Log" feature (a key diagnostic tool) at least 3 times per week.
+
+4. Time-to-First-Session-Completion
+
+Activation
+
+Measures the time elapsed between sign-up and a user completing their first guided session. (Faster activation leads to better long-term engagement).
+
+5. De-escalation Tool Usage
+
+Safety/Value
+
+Number of times the "Emergency De-escalation" tool is triggered and successfully logged (lower is often better, but indicates high value in crisis).
