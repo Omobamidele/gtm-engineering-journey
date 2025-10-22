@@ -1,0 +1,33 @@
+GTM Funnel (Simplified Analytics View)
+
+| Stage           | Description                 | Example Metric           | Formula                            |
+| --------------- | --------------------------- | ------------------------ | ---------------------------------- |
+| **Awareness**   | People who discover you     | Website visitors         | —                                  |
+| **Engagement**  | People who interact         | CTR (Click-Through Rate) | Clicks ÷ Impressions               |
+| **Acquisition** | People who sign up          | Conversion Rate          | Signups ÷ Visitors                 |
+| **Activation**  | People who use your product | Activation Rate          | Active users ÷ Signups             |
+| **Retention**   | People who keep using       | Retention %              | Active after 30 days ÷ total users |
+| **Revenue**     | People who pay              | MRR, ARR                 | Monthly recurring revenue          |
+| **Referral**    | People who refer others     | Viral Coefficient        | Invites ÷ new users                |
+
+Your North Star Metric is the single number that best captures the value you deliver to customers.
+
+| Company | North Star Metric    |
+| ------- | -------------------- |
+| Airbnb  | Nights booked        |
+| Spotify | Minutes listened     |
+| Slack   | Messages sent        |
+| Figma   | Active files created |
+
+Find your NSM by asking:
+👉 “What number grows when my customers get real value?”
+
+| Metric                          | Formula                          | Why It Matters             |
+| ------------------------------- | -------------------------------- | -------------------------- |
+| CAC (Customer Acquisition Cost) | Total spend ÷ # of new customers | Efficiency of spend        |
+| CPL (Cost per Lead)             | Spend ÷ Leads generated          | Early marketing health     |
+| Conversion Rate                 | Leads ÷ Visitors                 | Landing page strength      |
+| MQL to SQL %                    | SQL ÷ MQL                        | Quality of marketing leads |
+| ROI (Return on Investment)      | (Revenue - Spend) ÷ Spend        | Profitability of campaigns |
+
+
