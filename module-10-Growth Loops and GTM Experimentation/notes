@@ -1,0 +1,43 @@
+The Growth Experiment Framework
+| Step            | What You Do              | Example                                                        |
+| --------------- | ------------------------ | -------------------------------------------------------------- |
+| 1️⃣ Hypothesis  | Make a prediction        | “Adding a free trial button will increase conversions by 10%.” |
+| 2️⃣ Test Design | Decide where/how to test | Landing page A vs B                                            |
+| 3️⃣ Execution   | Run the experiment       | Use Google Optimize or manual test                             |
+| 4️⃣ Measurement | Collect data             | Track conversions for 2 weeks                                  |
+| 5️⃣ Learning    | Record results           | Version B worked → implement!                                  |
+
+
+The AARRR Growth Framework (Pirate Metrics)
+
+| Stage           | Focus                       | Example Experiments             |
+| --------------- | --------------------------- | ------------------------------- |
+| **Acquisition** | Get more users              | Try new ad creative or channels |
+| **Activation**  | Get them to use the product | Improve onboarding emails       |
+| **Retention**   | Keep them coming back       | Add habit-forming features      |
+| **Revenue**     | Make them pay               | Test pricing plans              |
+| **Referral**    | Get them to invite others   | Launch referral program         |
+
+Types of Growth Loops
+
+| Type               | Description                       | Example                                           |
+| ------------------ | --------------------------------- | ------------------------------------------------- |
+| **Viral Loop**     | Users invite other users          | Dropbox: “Get 500MB free when you refer a friend” |
+| **Content Loop**   | Content attracts traffic          | Notion templates bring SEO traffic                |
+| **Product Loop**   | Using product creates visibility  | Figma designs shared publicly                     |
+| **Sales Loop**     | Happy customers lead to referrals | HubSpot partner program                           |
+| **Community Loop** | Users create value for others     | Reddit, Slack communities                         |
+
+
+Deciding What to Test (Prioritization Matrix)
+
+You can’t test everything. Use this ICE scoring system:
+| Factor         | Meaning                     | Score 1–10 |
+| -------------- | --------------------------- | ---------- |
+| **Impact**     | How big the result could be | 8          |
+| **Confidence** | How sure you are            | 6          |
+| **Ease**       | How simple it is to execute | 7          |
+
+
+
+
