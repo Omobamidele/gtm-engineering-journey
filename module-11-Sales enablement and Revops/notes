@@ -1,0 +1,25 @@
+Qualification Frameworks
+
+Sales qualification = finding out if someone is a real buyer.
+
+| Framework  | Focus                                        | Example Questions                        |
+| ---------- | -------------------------------------------- | ---------------------------------------- |
+| **BANT**   | Budget, Authority, Need, Timeline            | “Do you have budget this quarter?”       |
+| **MEDDIC** | Metrics, Economic buyer, Decision criteria   | “How will you measure success?”          |
+| **CHAMP**  | Challenges, Authority, Money, Prioritization | “What’s your biggest blocker right now?” |
+
+
+What Is Revenue Operations (RevOps)?
+
+RevOps = uniting Marketing + Sales + Customer Success under one data system.
+Its goal: remove friction, standardize reporting, and accelerate cash flow.
+
+RevOps Core Functions
+
+| Area                       | Focus                      | Example                       |
+| -------------------------- | -------------------------- | ----------------------------- |
+| **Data Management**        | Clean, consistent CRM data | Lead deduping, field naming   |
+| **Automation**             | Reduce manual work         | Auto lead routing             |
+| **Reporting**              | Unified dashboards         | CAC, MRR, funnel conversion   |
+| **Process Optimization**   | Align workflows            | Handoff rules between teams   |
+| **Tool Stack Integration** | Keep systems connected     | HubSpot → Salesforce → Looker |
