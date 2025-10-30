@@ -1,0 +1,52 @@
+Create a Minimum Viable Stack For a Fake Startup
+
+Business: Email marketing tool for creators
+
+Propose tools for:
+
+CRM
+
+Marketing automation
+
+CS
+
+Analytics
+
+Billing
+
+Dashboards
+
+Outreach
+
+🎯 Goal: Think like a RevOps architect.
+
+
+Minimum Viable Stack (MVS) - Tool List
+CRM
+HubSpot (Free/Starter)
+
+Marketing Automation
+The Startup's Own App (Core Product)
+
+HubSpot (Marketing Hub Free/Starter)
+
+CS
+HubSpot (Service Hub Free/Starter)
+
+Analytics
+Google Analytics 4 (GA4)
+
+Mixpanel/Amplitude (Free Tiers)
+
+Billing
+Stripe
+
+Dashboards
+HubSpot Reports
+
+Google Looker Studio
+
+Outreach
+Sales Navigator (LinkedIn)
+
+Apollo.io (Free Tier)
