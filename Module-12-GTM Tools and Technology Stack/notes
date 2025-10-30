@@ -1,0 +1,33 @@
+10 RULES FOR GTM TOOLING
+
+✅ Start simple → upgrade later
+✅ Expect to replace tools every 12–24 months
+✅ Data must be clean + standardized
+✅ One CRM = Source of truth
+✅ Automate repetitive tasks
+✅ Document workflows
+✅ Tools must support process → not replace it
+✅ Don’t buy enterprise tools before you’re ready
+✅ Measure before buying
+✅ Integration matters more than features
+
+
+DATA FLOW DIAGRAM (SIMPLE VERSION)
+
+Website → CRM → Marketing Automation → Sales → CS → Billing → BI
+
+TOOL DECISION FRAMEWORK
+
+Ask:
+
+Does it save time?
+
+Does it increase revenue?
+
+Does it improve data?
+
+Does it integrate with my core stack (CRM)?
+
+Is it worth the cost?
+
+If no → don’t buy.
